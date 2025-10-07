@@ -1,4 +1,5 @@
-🧠 ChatBot Project
+🧠 CHATBOT PROJECT
+____________________
 
 💬 Overview
 
@@ -84,7 +85,7 @@ A modern chat interface with bot replies appearing dynamically on screen.
 
 🧑‍💻 Author
 
-Anusuya Behera
+ABHIPSA PRIYADARSINI
 Made with ❤️ using HTML, CSS, and Java.
 
 
